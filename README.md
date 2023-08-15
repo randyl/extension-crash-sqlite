@@ -13,4 +13,5 @@ To run this code:
 
 This was tested on Chrome 115.0.5790.170 on Linux.
 
+Screenshot of a crash:
 ![Example Crash](extension_crash.png)
