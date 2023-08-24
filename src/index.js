@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
         promiser = self.sqlite3Worker1Promiser( generate );
     });
     document.getElementById('retrieve').addEventListener('click', function() {
-        promiser = self.sqlite3Worker1Promiser( retrieve );
+        retrieve();
     });
 });
 
